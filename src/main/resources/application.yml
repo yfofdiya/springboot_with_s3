@@ -1,0 +1,8 @@
+
+amazon:
+  aws:
+    access-key:
+    secret-key:
+  s3:
+    bucket-name:
+    region:
